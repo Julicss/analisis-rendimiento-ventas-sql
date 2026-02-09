@@ -1,0 +1,6 @@
+Conclusiones obtenidas del análisis:
+
+- La categoría Tecnología genera los mayores ingresos.
+- La Laptop es el producto con mejor desempeño en ventas.
+- Los clientes de Argentina concentran el mayor volumen de compras.
+- Se observa una tendencia creciente en los ingresos mensuales.
